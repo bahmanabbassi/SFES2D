@@ -1,12 +1,12 @@
 # SFES2D
-A 2D spatial &amp; spectral feature extraction &amp; selection tool for geo-imaging (DEMO)
 
-SFES2D harnesses the power of advanced, unsupervised source separation techniques, including principal component analysis (for variance maximization), independent component analysis (for kurtosis and negentropy maximization), continuous wavelet transforms, RGB color processing, and k-means clustering segmentation. These cutting-edge methods enable feature extraction, dimensionality reduction of hyperdimensional geoscientific datasets, and lineament extraction with Bayesian optimization.
+SFES2D leverages advanced, unsupervised source separation techniques such as principal component analysis (for variance maximization), independent component analysis (for kurtosis and negentropy maximization), continuous wavelet transforms, RGB color processing, and k-means clustering segmentation. These state-of-the-art methods facilitate feature extraction, dimensionality reduction of hyperdimensional geoscientific datasets, and lineament extraction with Bayesian optimization.
 
-This software was developed and released by:
+Developed and released by:
 
-Bahman Abbassi, Postdoctoral Fellow in Mining Engineering at Institut de Recherche en Mines et en Environnement (IRME), Université du Québec en Abitibi-Témiscamingue (UQAT)
+Bahman Abbassi
+Postdoctoral Fellow in Mining Engineering at Institut de Recherche en Mines et en Environnement (IRME), Université du Québec en Abitibi-Témiscamingue (UQAT)
 
-Adresse: IC113, 445, boul. de l’Université, Rouyn-Noranda (Québec) J9X 5E4
+Address: IC113, 445, boul. de l’Université, Rouyn-Noranda (Québec) J9X 5E4
 
-Email: bahman.abbassi@uqat.ca
+Contact: For the passcode to access SFES2D, please email bahman.abbassi@uqat.ca
