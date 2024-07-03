@@ -5,7 +5,7 @@ SFES2D harnesses the power of advanced, unsupervised source separation technique
 
 This software was developed and released by:
 
-Bahman Abbassi, Postdoctoral Fellowship in Mining Engineering at Institut de Recherche en Mines et en Environnement (IRME), Université du Québec en Abitibi-Témiscamingue (UQAT)
+Bahman Abbassi, Postdoctoral Fellow in Mining Engineering at Institut de Recherche en Mines et en Environnement (IRME), Université du Québec en Abitibi-Témiscamingue (UQAT)
 
 Adresse: IC113, 445, boul. de l’Université, Rouyn-Noranda (Québec) J9X 5E4
 
